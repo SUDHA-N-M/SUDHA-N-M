@@ -1,13 +1,13 @@
-# About Me:
+# ABOUT ME:
 I am SUDHA<br><br>👯  Looking for a good organization to start my professional journey<br><br>🌱 I’m currently learning Web Development<br><br>💬 Ask more about me through mail at iamsudhanm@gmail.com<br><br>
 
 
-## Socials:
+## SOCIALS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanm) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamsudhanm) 
 
-# Tech Stack:
+# TECH STACKS:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-# GitHub Stats:
+# GITHUB STATS:
 ![](https://github-readme-stats.vercel.app/api?username=SUDHA-N-M&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SUDHA-N-M&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHA-N-M&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
