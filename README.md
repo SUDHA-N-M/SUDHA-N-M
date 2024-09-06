@@ -1,6 +1,5 @@
 # Hello 👋, I am SUDHA
-# 💫 About Me:
-An Engineering Graduate<br><br>Looking for an organization to start my professional journey<br><br>Currently learning Web Development<br><br>Reach out to me for more information at iamsudhanm@gamil.com
+An Engineering Graduate<br><br>Looking for an organization to start professional journey<br><br>Currently learning Web Development<br><br>Reach out to me for more information at iamsudhanm@gamil.com
 
 ## SOCIALS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanm) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamsudhanm) 
