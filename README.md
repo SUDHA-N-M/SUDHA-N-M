@@ -1,4 +1,4 @@
-# Hello 👋, I am SUDHA
+# Hello, I am SUDHA
 An Engineering Graduate<br><br>Looking for an organization to start professional journey<br><br>Currently learning Web Development<br><br>Reach out to me for more information at iamsudhanm@gamil.com
 
 ## SOCIALS:
