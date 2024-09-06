@@ -1,5 +1,5 @@
 # ABOUT ME:
-I am SUDHA<br><br>👯  Looking for a good organization to start my professional journey<br><br>🌱 I’m currently learning Web Development<br><br>💬 Ask more about me through mail at iamsudhanm@gmail.com<br><br>
+I am SUDHA<br><br>👯  Looking for a good organization to start my professional journey<br><br>🌱 I’m currently learning Web Development<br><br>
 
 
 ## SOCIALS:
